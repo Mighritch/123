@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "été 2023",
+      "image": "assets/petitélectro.jpg",
+      "archived": 0
+    },
+    {
+      "id": 2,
+      "title": "Aid 2023",
+      "image": "assets/produitinfo.jpg",
+      "archived": 1
+    },
+    {
+      "id": 3,
+      "title": "Anniversaire Mai 2024",
+      "image": "assets/tv-lg.jpg",
+      "archived": 1
+    }
+  ]
+  
